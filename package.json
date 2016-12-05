@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/GwonHyeok/node-inicis/issues"
   },
-  "homepage": "https://github.com/GwonHyeok/node-inicis#readme"
+  "homepage": "https://github.com/GwonHyeok/node-inicis#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
 }
