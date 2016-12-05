@@ -1,6 +1,6 @@
 {
   "name": "node-inicis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.js 이니시스 라이브러리",
   "main": "index.js",
   "scripts": {
