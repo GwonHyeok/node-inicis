@@ -1,6 +1,6 @@
 {
   "name": "node-inicis",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Node.js 이니시스 라이브러리",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "gt"
+    "url": "git@github.com:GwonHyeok/node-inicis.git"
   },
   "keywords": [
     "inicis",
